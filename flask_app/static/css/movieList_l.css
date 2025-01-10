@@ -36,3 +36,7 @@ main footer ul li a:hover {
   transform: translateY(-3px);
   transition: .3s;
 }
+.s_WorkSpace .s_MovieBlock{
+  background-color: rgba(107, 215, 216, 0.489);
+  border: solid 1px rgb(188, 38, 218);
+}
